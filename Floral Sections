@@ -1,0 +1,78 @@
+<div class="container-fluid">
+  
+  <div class="row">
+  
+    <div class="col-sm m-n3">
+        
+        <p class="bg-faded">
+            
+            <!-- Replace the background-image:url(https://i.imgur.com/nBZb46Y.jpg) < URL Here with whatever image url you want your background to be.-->
+            
+            <div style="background-attachment:fixed; background-image:url(https://i.imgur.com/nBZb46Y.jpg); background-size: cover; height:475px;opacity:0.5">
+                <p class="text-justify" style="">
+                    <h1 class="display-3 text-center p-4"><b>Header Text Here</b></h1>
+                    <h1 class="display-4 text-center">Name | Age | Etc</h1>
+                
+                <div class="card mx-auto w-50">
+                <p class="text-center para" align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </div>
+            </div>
+        
+        
+    </div>
+    
+    <div class="col-sm-4 m-n3">
+        
+        <div class="bg-faded">
+            
+            <!--Square images recommended! If your image isn't square, the image will warp to fit the space. Replace the imgur link below with your image link.-->
+            
+            <img class="centered card-img-top" src="https://i.imgur.com/SDmC4ci.jpg" style="border-radius:100%;width:300px;height:300px;">
+        
+            <table class="table-striped" style="width:380px;">
+                <thead>
+                <tr>
+                <th style="text-align:center; font-weight:300;">External Links</th>
+                </tr>
+                </thead>
+                
+                <tbody>
+                <tr>
+                    <td><i class="fab fa-discord"></i> Discord: #Numbers&Name</td>
+                </tr>
+                
+                <tr>
+                    <td><i class="fab fa-twitter"></i> Twitter:
+                    
+                    <a href="LINK HERE">Twitter Name</a>
+                    
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td><i class="fab fa-deviantart"></i> Deviantart:
+                    
+                    <a href="LINK HERE">Deviantart Name</a>
+                    
+                    </td>
+            
+                </tr>
+                <tr>
+                    <td><i class="fas fa-paw"></i> Furaffinity: 
+                    
+                    <a href="LINK HERE">Furaffinity Name</a>
+                    
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+            
+        </div>
+        
+    </div>
+    
+  </div>
+
+</div>
+<br>
+<a href="https://toyhou.se/Ellteo"><i class="fas fa-leaf" style="opacity:0.25"></i></a>
